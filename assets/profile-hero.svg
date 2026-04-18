@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#1E3A8A"/>
+    </linearGradient>
+    <linearGradient id="orb" x1="220" y1="180" x2="980" y2="740" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#14B8A6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <circle cx="360" cy="300" r="220" fill="url(#orb)" opacity="0.35"/>
+  <circle cx="900" cy="640" r="260" fill="#22D3EE" opacity="0.16"/>
+  <rect x="130" y="120" width="940" height="660" rx="36" fill="#0B1224" stroke="#334155" stroke-width="2"/>
+  <text x="190" y="260" fill="#FFFFFF" font-size="68" font-family="Arial, sans-serif" font-weight="700">Shakeel Ahmad</text>
+  <text x="190" y="332" fill="#93C5FD" font-size="36" font-family="Arial, sans-serif">Mobile Apps Developer | Flutter | Kotlin</text>
+  <text x="190" y="386" fill="#67E8F9" font-size="30" font-family="Arial, sans-serif">AI Automations | WordPress | Wix | Google Ads</text>
+  <g opacity="0.95">
+    <rect x="190" y="460" width="276" height="74" rx="14" fill="#1D4ED8"/>
+    <text x="214" y="508" fill="#FFFFFF" font-size="28" font-family="Arial, sans-serif">5+ Years Experience</text>
+  </g>
+  <g opacity="0.95">
+    <rect x="490" y="460" width="210" height="74" rx="14" fill="#0F766E"/>
+    <text x="518" y="508" fill="#CCFBF1" font-size="28" font-family="Arial, sans-serif">2,216 Followers</text>
+  </g>
+</svg>

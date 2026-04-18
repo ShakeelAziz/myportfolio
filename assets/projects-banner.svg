@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="500" viewBox="0 0 1400 500" fill="none">
+  <rect width="1400" height="500" fill="#0B1220"/>
+  <rect x="70" y="70" width="1260" height="360" rx="28" fill="#111827" stroke="#334155" stroke-width="2"/>
+  <circle cx="230" cy="250" r="92" fill="#1D4ED8" opacity="0.7"/>
+  <circle cx="1170" cy="250" r="92" fill="#0D9488" opacity="0.7"/>
+  <text x="360" y="210" fill="#E2E8F0" font-size="54" font-family="Arial, sans-serif" font-weight="700">Featured Work</text>
+  <text x="360" y="268" fill="#93C5FD" font-size="30" font-family="Arial, sans-serif">LMS, Monitoring, Translation, CRM, and more</text>
+  <text x="360" y="320" fill="#5EEAD4" font-size="26" font-family="Arial, sans-serif">Flutter, Kotlin, Android SDK, REST APIs</text>
+</svg>
