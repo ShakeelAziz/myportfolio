@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Al-Arees Tailoring">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e3a8a"/>
+      <stop offset="100%" stop-color="#0f766e"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="url(#bg)"/>
+  <path fill="#e2e8f0" d="M256 118c-52 0-94 38-94 85v18h188v-18c0-47-42-85-94-85zm-120 118v152c0 22 18 40 40 40h160c22 0 40-18 40-40V236H136zm88 52h64v40h-64v-40z"/>
+</svg>

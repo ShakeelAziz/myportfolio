@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Fuel Finder">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#14b8a6"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="url(#bg)"/>
+  <path fill="#f8fafc" d="M176 128h96c17.7 0 32 14.3 32 32v48h32c8.8 0 16 7.2 16 16v176c0 26.5-21.5 48-48 48s-48-21.5-48-48v-96h-32v96c0 26.5-21.5 48-48 48s-48-21.5-48-48V160c0-17.7 14.3-32 32-32zm48 64h-32v128h32V192zm96 0h-32v128h32V192z"/>
+</svg>
